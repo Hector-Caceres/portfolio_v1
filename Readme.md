@@ -14,25 +14,11 @@ npm install
 npm start
 ```
 
-## test
+## Construido con 🛠️
 
-```python
-import foobar
+- [Bulma](https://bulma.io/) - Framework Utilizado
+- [NPM](https://nodejs.org/es/) - Manejador de Dependencias
 
-# returns 'words'
-foobar.pluralize('word')
+## Autor/es
 
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+- Ignacio Astete Núñez ([toverpil](https://github.com/toverpil)) - Desarrollador Web 
